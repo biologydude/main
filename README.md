@@ -6,6 +6,7 @@ Mestrando com atuação em ecologia, entomologia e análise de dados ambientais.
 - Fauna edáfica e indicadores de qualidade do solo.
 - Análise e visualização de dados ambientais.
 - Geoprocessamento e monitoramento da cobertura da terra.
+
 Ferramentas e aprendizado
 - R: organização, análise estatística e visualização de dados.
 - QGIS: elaboração de mapas e trabalho com dados geográficos.
