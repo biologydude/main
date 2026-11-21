@@ -15,7 +15,8 @@ Ferramentas e aprendizado
 - Próximos estudos: modelos estatísticos para ecologia e fluxos de análise reproduzíveis.
 
 Pesquisa e formação
-Minha pesquisa envolve artrópodes do solo e suas relações com as condições ambientais em diferentes fitofisionomias de Paragominas, Pará.
+
+Minha pesquisa envolve artrópodes do solo e suas relações com as condições ambientais em diferentes tipos de fitofisionmias.
 
 Também tenho experiência em apoio à docência, minicursos de biologia e ecologia e atividades de extensão.
 
