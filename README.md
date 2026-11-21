@@ -1,4 +1,5 @@
 Leonardo Vargas
+
 Mestrando com atuação em ecologia, entomologia e análise de dados ambientais. Tenho interesse em conectar pesquisa sobre biodiversidade e solo a métodos quantitativos, geoprocessamento e sensoriamento remoto.
 Áreas de interesse
 - Ecologia de comunidades e biodiversidade.
